@@ -1,0 +1,25 @@
+Name: Rahul Kumar
+
+Education:
+B.Tech Artificial Intelligence and Data Science
+
+Skills:
+Python
+Machine Learning
+SQL
+Communication
+Pandas
+NumPy
+TensorFlow
+Git
+GitHub
+Data Analysis
+Problem Solving
+Teamwork
+
+Projects:
+Student Marks Prediction
+Spam Email Detection
+
+Experience:
+Fresher

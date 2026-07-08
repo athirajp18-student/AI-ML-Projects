@@ -1,0 +1,11 @@
+ticket,category
+"My refund is not received",Billing
+"Payment failed but money deducted",Billing
+"Invoice is incorrect",Billing
+"App crashes on startup",Technical
+"Unable to login to my account",Technical
+"Website is very slow",Technical
+"My order is delayed",Delivery
+"I received the wrong product",Delivery
+"Package has not arrived",Delivery
+"Need to change delivery address",Delivery
