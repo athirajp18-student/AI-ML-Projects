@@ -8,7 +8,6 @@ Welcome to my AI & Machine Learning Projects repository.
 - Movie Recommendation System
 - Spam Email Detector
 - Fake News Detection
-- Customer Support Chatbot
 - Resume ATS Analyzer
 - PDF Resume Reader
 
